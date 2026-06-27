@@ -1,0 +1,12 @@
+date,weight_kg,context,source_quality
+2026-06-15,98.0,morning,reported
+2026-06-16,97.8,morning,reported
+2026-06-17,97.6,morning,reported
+2026-06-18,97.7,morning,reported
+2026-06-19,97.4,morning,reported
+2026-06-20,97.5,morning,reported
+2026-06-21,98.0,morning,reported
+2026-06-22,97.5,morning_before_toilet_note,reported
+2026-06-25,97.8,morning,reported
+2026-06-26,97.6,morning,reported
+2026-06-27,98.1,morning_corrected_from_typo,reported
