@@ -1,0 +1,253 @@
+{
+  "imported_at": "2026-06-27",
+  "source": "ChatGPT Diet Trainer project context",
+  "important_note": "Це не повна історія за всі місяці. Це тільки те, що доступно в поточному контексті проєкту.",
+  "days": [
+    {
+      "date": "2026-06-15",
+      "weight_kg": 98.0,
+      "training": ["гребля 5 км"],
+      "meals": [
+        {"name": "їжа за день", "details": "була на фото; точний склад у поточному контексті неповний"}
+      ],
+      "notes": ["користувач хоче швидший початковий темп зниження ваги"]
+    },
+    {
+      "date": "2026-06-16",
+      "weight_kg": 97.8,
+      "sleep": "22:00-05:00",
+      "training": ["гребля 5 км"],
+      "meals": [
+        {"item": "Ейлер", "amount_g": 100, "note": "корекція від користувача"}
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "weight_kg": 97.6,
+      "training": ["гребля 5 км"],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "сир 5%", "amount_g": 200},
+          {"item": "полуниця", "amount_g": 500},
+          {"item": "еспресо", "amount": 6}
+        ]},
+        {"meal": "lunch_or_day", "items": [
+          {"item": "суп", "amount": "1 порція"},
+          {"item": "індичі котлети", "amount_g": 100}
+        ]},
+        {"meal": "evening", "items": [
+          {"item": "індичі котлети", "amount_g": 250},
+          {"item": "млинці з кабачків без муки", "amount_g": 250},
+          {"item": "кава", "amount": 1},
+          {"item": "сирні вафлі", "amount_g": 150}
+        ]}
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "weight_kg": 97.7,
+      "training": ["гребля 5 км"],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "вафлі сирні", "amount_g": 170},
+          {"item": "полуниця", "amount_g": 300},
+          {"item": "сирник", "amount_g": 130},
+          {"item": "еспресо", "amount": 2}
+        ]},
+        {"meal": "evening", "items": [
+          {"item": "їжа з фото", "details": "кабачкові млинці ті самі; інші деталі неповні"}
+        ]}
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "weight_kg": 97.4,
+      "training": ["гребля 5 км", "силове/CrossFit тренування з результатами BS 120, DL 150, MP 60"],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "сирники", "amount_g": 250},
+          {"item": "полуниця", "amount_g": 200}
+        ]},
+        {"meal": "snack", "items": [{"item": "перекус з фото", "details": "точний склад у контексті неповний"}]},
+        {"meal": "supplement", "items": [{"item": "BCAA", "amount": "1 банка"}]}
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "weight_kg": 97.5,
+      "training": ["розминка з фото", "Viking workout у жилеті 6 кг, час 23:30"],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "сир", "amount_g": 200},
+          {"item": "WheyGold", "amount": "1 ложка"},
+          {"item": "молоко", "amount_ml": 100},
+          {"item": "полуниця", "amount_g": 200},
+          {"item": "кава", "amount": 1}
+        ]},
+        {"meal": "supplement", "items": [{"item": "BCAA", "amount": "1 банка"}]},
+        {"meal": "lunch", "items": [
+          {"item": "картопля", "amount_g": 200},
+          {"item": "тефтелі курячі", "amount_g": 200},
+          {"item": "салат", "amount_g": 200, "details": "яйце, кукурудза, крабові палички, цибуля"}
+        ]},
+        {"meal": "dinner", "items": [
+          {"item": "котлети", "amount_g": 300},
+          {"item": "картопля", "amount_g": 200},
+          {"item": "салат", "amount_g": 200, "details": "такий як в обід"}
+        ]}
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "weight_kg": 98.0,
+      "training": ["гребля 5 км", "рубав дрова 1 годину"],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "сир", "amount_g": 200},
+          {"item": "Gold Whey", "amount": "1 порція"},
+          {"item": "полуниця", "amount_g": 200},
+          {"item": "молоко", "amount_ml": 100},
+          {"item": "еспресо", "amount": 1}
+        ]},
+        {"meal": "lunch", "items": [
+          {"item": "чмерулі", "amount_g": 200},
+          {"item": "язик яловичий", "amount_g": 200},
+          {"item": "запіканка", "amount_g": 300},
+          {"item": "сметана", "amount_g": 20}
+        ]},
+        {"meal": "later", "items": [
+          {"item": "салат з крабових паличок", "amount_g": 150},
+          {"item": "яйце", "amount_g": 150},
+          {"item": "куряче філе", "amount_g": 200}
+        ]}
+      ],
+      "notes": ["спека, багато води"]
+    },
+    {
+      "date": "2026-06-22",
+      "weight_kg": 97.5,
+      "training": ["гребля 5 км"],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "сир", "amount_g": 200},
+          {"item": "Gold Whey", "amount": "1 порція"},
+          {"item": "молоко", "amount_ml": 100},
+          {"item": "еспресо", "amount": 4},
+          {"item": "лохина", "amount_g": 200},
+          {"item": "яблуко", "amount_g": 200},
+          {"item": "BCAA Moxy", "amount": "1 банка"}
+        ]},
+        {"meal": "lunch", "items": [{"item": "обід з фото", "details": "точний склад у контексті неповний"}]},
+        {"meal": "dinner", "items": [
+          {"item": "гороховий суп", "amount_g": 600},
+          {"item": "черешня", "amount_g": 300}
+        ]}
+      ],
+      "notes": ["вага була перед туалетом"]
+    },
+    {
+      "date": "2026-06-23",
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "сир", "amount_g": 200},
+          {"item": "Gold Whey", "amount": "1 порція"},
+          {"item": "лохина", "amount_g": 100},
+          {"item": "молоко", "amount_ml": 100},
+          {"item": "полуниця", "amount_g": 200},
+          {"item": "кава", "details": "2 еспресо"}
+        ]},
+        {"meal": "lunch/dinner", "items": [
+          {"item": "рис", "amount_g": 200},
+          {"item": "куряче філе", "amount_g": 300},
+          {"item": "гриби у вершках", "amount_g": 200},
+          {"item": "Moxy", "amount_ml": 300}
+        ]}
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "meals": [
+        {"meal": "lunch", "items": [
+          {"item": "паста", "amount_g": 150},
+          {"item": "креветки", "amount_g": 150},
+          {"item": "салат", "amount_g": 300}
+        ]},
+        {"meal": "dinner", "items": [
+          {"item": "рис", "amount_g": 200},
+          {"item": "куриця", "amount_g": 300},
+          {"item": "Moxy", "amount_ml": 300},
+          {"item": "салат", "amount_g": 200}
+        ]}
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "weight_kg": 97.8,
+      "training": ["гребля 5 км"],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "3 млинці", "amount": 3},
+          {"item": "сир + полуниця", "total_amount_g": 380},
+          {"item": "кава", "amount": 1}
+        ]},
+        {"meal": "lunch", "items": [
+          {"item": "ліниві вареники", "amount_g": 200}
+        ]}
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "weight_kg": 97.6,
+      "training": ["ранкове тренування з фото"],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "сирники", "amount_g": 250},
+          {"item": "полуниця", "amount_g": 200}
+        ]},
+        {"meal": "lunch", "items": [
+          {"item": "картопля", "amount_g": 200},
+          {"item": "печінка", "amount_g": 300},
+          {"item": "овочевий салат", "amount_g": 200},
+          {"item": "масло", "amount_g": 20}
+        ]},
+        {"meal": "dinner", "items": [
+          {"item": "печінка індича", "amount_g": 320},
+          {"item": "салат овочевий", "amount_g": 300}
+        ]},
+        {"meal": "snack", "items": [
+          {"item": "сирник", "amount": 1},
+          {"item": "кава", "amount": 1}
+        ]}
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "weight_kg": 98.1,
+      "training": [
+        "ранкове тренування з фото",
+        "ривки 50 кг",
+        "Sots press / жим з-за голови в присіді",
+        "Burpee / бьорпі",
+        "C.AFAP: виходи замінені на підтягування, закінчено за 10:00"
+      ],
+      "meals": [
+        {"meal": "breakfast", "items": [
+          {"item": "сир", "amount_g": 200},
+          {"item": "Gold Whey", "amount": "1 порція"},
+          {"item": "полуниця", "amount_g": 250},
+          {"item": "молоко", "amount_ml": 100},
+          {"item": "кава", "amount": 1}
+        ]},
+        {"meal": "lunch", "items": [
+          {"item": "сендвічі", "amount": 2, "details": "2 скиби цільнозернового хліба загалом, авокадо, сир, шинка"}
+        ]},
+        {"meal": "evening", "items": [
+          {"item": "печінка", "amount_g": 250},
+          {"item": "канолі", "amount": 1},
+          {"item": "кава", "amount": 1}
+        ]}
+      ],
+      "notes": ["98.1 виправлено як помилку попереднього 88.1/98.1"]
+    }
+  ]
+}
