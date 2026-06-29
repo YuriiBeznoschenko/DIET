@@ -1,0 +1,28 @@
+{
+  "week": "2026-W27",
+  "date_range": {"from": "2026-06-29", "to": "2026-07-05"},
+  "days": [
+    {
+      "date": "2026-06-29",
+      "weight_kg": 97.3,
+      "training": [
+        {
+          "type": "гребля",
+          "source": "фото монітора DYKA GONKA",
+          "duration": "29:24",
+          "distance_m": 6024,
+          "calories_kcal": 335,
+          "power_cal_per_hour": 338,
+          "stroke_rate_spm": 53,
+          "interval_calories_kcal": 49,
+          "forecast_distance_m_30min": 6081
+        }
+      ],
+      "meals": [],
+      "notes": [
+        "їжа за день ще не записана",
+        "вага 97.3 кг повідомлена користувачем разом із фото тренування"
+      ]
+    }
+  ]
+}
