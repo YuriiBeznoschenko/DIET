@@ -224,6 +224,43 @@
         "додано: черешня 300 г, 3 кави, MOXY 300 мл",
         "помилка обліку виправлена: сирники рахувати як 300 г x 248 ккал/100 г = 744 ккал"
       ]
+    },
+    {
+      "date": "2026-07-04",
+      "meals": [
+        {
+          "meal": "breakfast",
+          "items": [
+            {"item": "хліб", "amount_g": 80, "calories_kcal": 220},
+            {"item": "авокадо", "amount_g": 150, "calories_kcal": 270},
+            {"item": "Moxy", "amount_ml": 600, "calories_kcal": 60}
+          ],
+          "calories_kcal": 550
+        },
+        {
+          "meal": "lunch",
+          "items": [
+            {"item": "борщ", "amount_g": 600, "calories_kcal": 420}
+          ],
+          "calories_kcal": 420
+        },
+        {
+          "meal": "dinner",
+          "items": [
+            {"item": "удон", "amount_g_approx": 400, "calories_kcal": 850}
+          ],
+          "calories_kcal": 850
+        }
+      ],
+      "total_calories_kcal": 1820,
+      "calorie_estimation": "upper_bound",
+      "notes": [
+        "користувач попросив рахувати всі оцінки по верхній межі",
+        "сніданок додано: тости з авокадо — хліб 80 г, авокадо 150 г, Moxy 600 мл",
+        "обід додано: борщ 600 г",
+        "вечір додано: удон, порція приблизно 400 г",
+        "підсумок дня за наданими прийомами: 1820 ккал по верхній межі"
+      ]
     }
   ]
 }
