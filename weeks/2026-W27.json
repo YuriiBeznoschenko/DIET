@@ -263,6 +263,61 @@
         "вечір додано: удон, порція приблизно 400 г",
         "підсумок дня за наданими прийомами: 1820 ккал по верхній межі"
       ]
+    },
+    {
+      "date": "2026-07-05",
+      "weight_kg": 96.5,
+      "meals": [
+        {
+          "meal": "breakfast",
+          "items": [
+            {"item": "хліб цільнозерновий", "amount_g": 120},
+            {"item": "авокадо", "amount_g": 160},
+            {"item": "кава еспресо", "amount": 2}
+          ],
+          "calories_kcal_estimate": 560
+        },
+        {
+          "meal": "lunch",
+          "items": [
+            {"item": "холодний борщ", "amount": "порція", "amount_details": "точна грамовка не вказана"},
+            {"item": "курятина", "amount_fraction": 0.5, "amount_details": "половина порції"}
+          ],
+          "calories_kcal_estimate_min": 450,
+          "calories_kcal_estimate_max": 600
+        },
+        {
+          "meal": "dinner",
+          "items": [
+            {
+              "item": "кабачкові вафлі",
+              "amount_fraction": 0.66,
+              "calories_kcal_estimate": 440,
+              "cooking_method": "вафельниця без олії",
+              "recipe_full_portion": [
+                {"item": "кабачки", "amount": 2, "amount_g_estimate": 600},
+                {"item": "яйце", "amount": 1},
+                {"item": "сулугуні", "amount_g": 50},
+                {"item": "мука", "amount_tbsp": 4, "amount_g_estimate": 100}
+              ]
+            },
+            {"item": "кава", "amount": 1, "calories_kcal_estimate": 0},
+            {"item": "чізкейк", "amount_g": 80, "calories_kcal_estimate": 250},
+            {"item": "телятина", "amount_g": 200, "calories_kcal_estimate": 340}
+          ],
+          "calories_kcal_estimate": 1030
+        }
+      ],
+      "total_calories_kcal_estimate_min": 2040,
+      "total_calories_kcal_estimate_max": 2190,
+      "notes": [
+        "вага 96.5 кг повідомлена користувачем зранку",
+        "сніданок додано: хліб цільнозерновий 120 г, авокадо 160 г, 2 еспресо",
+        "обід додано з фото/опису: холодний борщ і половина порції курятини; точна грамовка не вказана, калорійність estimate",
+        "вечеря додана: 66% кабачкових вафель без олії, кава, чізкейк 80 г, телятина 200 г",
+        "кабачкові вафлі рахувались з припущенням: 2 середні кабачки ≈ 600 г, 4 ст. л. муки ≈ 100 г; 66% порції ≈ 440 ккал",
+        "підсумок дня за наданими прийомами: 2040–2190 ккал estimate"
+      ]
     }
   ]
 }
