@@ -1,0 +1,54 @@
+{
+  "week": "2026-W28",
+  "date_range": {"from": "2026-07-06", "to": "2026-07-12"},
+  "days": [
+    {
+      "date": "2026-07-06",
+      "weight_kg": 97.0,
+      "meals": [
+        {
+          "meal": "breakfast",
+          "items": [
+            {"item": "говядіна", "amount_g": 300, "fat_level": "lean"},
+            {"item": "огірок", "amount_g": 200},
+            {"item": "картопля", "amount_g": 100}
+          ],
+          "calories_kcal_estimated": 555,
+          "macros_estimated": {"protein_g": 66, "fat_g": 16, "carbs_g": 25}
+        },
+        {
+          "meal": "lunch",
+          "items": [
+            {"item": "ліниві вареники з творогом", "amount_g": 200, "calories_kcal_estimated": 380},
+            {"item": "суп крем грибний", "amount_g": 300, "calories_kcal_estimated": 210},
+            {"item": "котлета куряча парова", "amount_g": 200, "calories_kcal_estimated": 300},
+            {"item": "сметана", "amount_g": 30, "calories_kcal_estimated": 60}
+          ],
+          "calories_kcal_estimated": 1000,
+          "source": "фото чеку з вагами"
+        },
+        {
+          "meal": "dinner",
+          "items": [
+            {"item": "картопля", "amount_g": 150, "calories_kcal_estimated": 115},
+            {"item": "телятина", "amount_g": 200, "calories_kcal_estimated": 300},
+            {"item": "куриця", "amount_g": 100, "calories_kcal_estimated": 165},
+            {"item": "огірок", "amount_g": 200, "calories_kcal_estimated": 30},
+            {"item": "масло", "amount_g": 10, "calories_kcal_estimated": 75}
+          ],
+          "calories_kcal_estimated": 685,
+          "macros_estimated": {"protein_g": 77, "fat_g": 24, "carbs_g": 33}
+        }
+      ],
+      "total_calories_kcal_estimated": 2240,
+      "daily_macros_estimated": {"protein_g": 210, "fat_g": 85, "carbs_g": 150},
+      "notes": [
+        "вага 97.0 кг повідомлена користувачем зранку",
+        "сніданок додано: говядіна 300 г нежирна, огірок 200 г, картопля 100 г",
+        "обід додано з чеку з вагами: ліниві вареники 200 г, суп крем грибний 300 г, котлета куряча парова 200 г, сметана 30 г",
+        "вечеря додана: картопля 150 г, телятина 200 г, куриця 100 г, огірок 200 г, масло 10 г",
+        "підсумок дня: приблизно 2240 ккал; БЖВ приблизно 210/85/150 г"
+      ]
+    }
+  ]
+}
