@@ -49,6 +49,53 @@
         "вечеря додана: картопля 150 г, телятина 200 г, куриця 100 г, огірок 200 г, масло 10 г",
         "підсумок дня: приблизно 2240 ккал; БЖВ приблизно 210/85/150 г"
       ]
+    },
+    {
+      "date": "2026-07-07",
+      "weight_kg": 97.0,
+      "meals": [
+        {
+          "meal": "breakfast",
+          "items": [
+            {"item": "сир", "amount_g": 200, "calories_kcal_estimated": 240},
+            {"item": "молоко", "amount_ml": 100, "calories_kcal_estimated": 50},
+            {"item": "кава", "servings": 2, "calories_kcal_estimated": 0},
+            {"item": "черешня", "amount_g": 250, "calories_kcal_estimated": 130},
+            {"item": "GoldWhey", "servings": 1, "calories_kcal_estimated": 120}
+          ],
+          "calories_kcal_estimated": 540,
+          "macros_estimated": {"protein_g": 55, "fat_g": 14, "carbs_g": 47}
+        },
+        {
+          "meal": "lunch",
+          "items": [
+            {"item": "картопля з грибами", "amount_g": 200, "calories_kcal_estimated": 260},
+            {"item": "огірок", "amount_g": 200, "calories_kcal_estimated": 30},
+            {"item": "куряча ковбаса домашня", "amount_g": 300, "calories_kcal_estimated": 780}
+          ],
+          "calories_kcal_estimated": 1070,
+          "macros_estimated": {"protein_g": 65, "fat_g": 55, "carbs_g": 50}
+        },
+        {
+          "meal": "dinner",
+          "items": [
+            {"item": "пельмені домашні з телятиною", "amount_g": 400, "calories_kcal_estimated": 920},
+            {"item": "Moxy", "amount_ml": 300, "calories_kcal_estimated": 40}
+          ],
+          "calories_kcal_estimated": 960,
+          "macros_estimated": {"protein_g": 48, "fat_g": 36, "carbs_g": 110},
+          "source": "фото + повідомлення користувача"
+        }
+      ],
+      "total_calories_kcal_estimated": 2570,
+      "daily_macros_estimated": {"protein_g": 168, "fat_g": 105, "carbs_g": 207},
+      "notes": [
+        "вага 97.0 кг повідомлена користувачем зранку",
+        "сніданок: сир 200 г, молоко 100 мл, 2 кави, черешня 250 г, GoldWhey",
+        "обід: картопля 200 г з грибами, огірок 200 г, домашня куряча ковбаса 300 г",
+        "вечеря: домашні пельмені з телятиною 400 г + Moxy 300 мл",
+        "підсумок дня попередній: приблизно 2570 ккал; БЖВ приблизно 168/105/207 г"
+      ]
     }
   ]
 }
