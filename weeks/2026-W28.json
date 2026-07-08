@@ -96,6 +96,56 @@
         "вечеря: домашні пельмені з телятиною 400 г + Moxy 300 мл",
         "підсумок дня попередній: приблизно 2570 ккал; БЖВ приблизно 168/105/207 г"
       ]
+    },
+    {
+      "date": "2026-07-08",
+      "weight_kg": null,
+      "meals": [
+        {
+          "meal": "breakfast",
+          "items": [
+            {"item": "сир", "amount_g": 200, "calories_kcal_estimated": 240},
+            {"item": "GoldWhey", "servings": 1, "calories_kcal_estimated": 120},
+            {"item": "Moxy", "amount_ml": 300, "calories_kcal_estimated": 40},
+            {"item": "молоко", "amount_ml": 100, "calories_kcal_estimated": 50},
+            {"item": "кешʼю", "amount_g": 50, "calories_kcal_estimated": 280}
+          ],
+          "calories_kcal_estimated": 730,
+          "macros_estimated": {"protein_g": 70, "fat_g": 32, "carbs_g": 38},
+          "source": "повідомлення користувача + фото"
+        },
+        {
+          "meal": "lunch",
+          "items": [
+            {"item": "кабачок", "amount_g": 300, "calories_kcal_estimated": 250},
+            {"item": "курячі тефтелі у томатному соусі", "amount_g": 300, "calories_kcal_estimated": 500}
+          ],
+          "calories_kcal_estimated": 750,
+          "macros_estimated": {"protein_g": 62, "fat_g": 25, "carbs_g": 55},
+          "source": "повідомлення користувача"
+        },
+        {
+          "meal": "dinner",
+          "items": [
+            {"item": "Barilla варена", "amount_g": 150, "calories_kcal_estimated": 230},
+            {"item": "курячі тефтелі у томатному соусі", "amount_g": 350, "calories_kcal_estimated": 590},
+            {"item": "кабачок у вигляді вафель", "amount_g": 150, "calories_kcal_estimated": 160},
+            {"item": "олія", "amount_g": 10, "calories_kcal_estimated": 90}
+          ],
+          "calories_kcal_estimated": 1070,
+          "macros_estimated": {"protein_g": 78, "fat_g": 42, "carbs_g": 85},
+          "source": "повідомлення користувача + фото"
+        }
+      ],
+      "total_calories_kcal_estimated": 2550,
+      "daily_macros_estimated": {"protein_g": 210, "fat_g": 99, "carbs_g": 178},
+      "notes": [
+        "вагу користувач не повідомив: записано null",
+        "сніданок: сир 200 г, GoldWhey, Moxy 300 мл, молоко 100 мл, кешʼю 50 г",
+        "обід: кабачок 300 г + ці ж курячі тефтелі 300 г у томатному соусі",
+        "вечеря: Barilla 150 г варена, курячі тефтелі 350 г у томатному соусі, кабачок-вафлі 150 г, олія 10 г",
+        "підсумок дня попередній: приблизно 2550 ккал; БЖВ приблизно 210/99/178 г; основна невизначеність — склад тефтель і кабачкових вафель"
+      ]
     }
   ]
 }
