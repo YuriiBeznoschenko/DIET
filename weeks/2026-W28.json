@@ -146,6 +146,45 @@
         "вечеря: Barilla 150 г варена, курячі тефтелі 350 г у томатному соусі, кабачок-вафлі 150 г, олія 10 г",
         "підсумок дня попередній: приблизно 2550 ккал; БЖВ приблизно 210/99/178 г; основна невизначеність — склад тефтель і кабачкових вафель"
       ]
+    },
+    {
+      "date": "2026-07-09",
+      "weight_kg": 96.9,
+      "workouts": [
+        {
+          "type": "rowing",
+          "distance_m": 6017,
+          "duration": "28:46",
+          "machine_calories_kcal": 339,
+          "average_pace_per_500m": "2:23",
+          "source": "фото дисплея тренажера"
+        }
+      ],
+      "meals": [
+        {
+          "meal": "breakfast",
+          "items": [
+            {"item": "сир", "amount_g": 200, "calories_kcal_estimated": 240},
+            {"item": "Gold Whey", "servings": 1, "calories_kcal_estimated": 120},
+            {"item": "кава", "servings": 2, "calories_kcal_estimated": 0},
+            {"item": "кешʼю", "amount_g": 30, "calories_kcal_estimated": 170},
+            {"item": "молоко", "amount_ml": 100, "calories_kcal_estimated": 50}
+          ],
+          "calories_kcal_estimated": 580,
+          "macros_estimated": {"protein_g": 63, "fat_g": 29, "carbs_g": 22},
+          "source": "повідомлення користувача + фото"
+        }
+      ],
+      "total_calories_kcal_estimated": 580,
+      "daily_macros_estimated": {"protein_g": 63, "fat_g": 29, "carbs_g": 22},
+      "exercise_calories_kcal_reported": 339,
+      "net_calories_after_logged_exercise_kcal_estimated": 241,
+      "notes": [
+        "вага 96.9 кг повідомлена користувачем зранку",
+        "тренування: гребля 6017 м за 28:46, тренажер показав 339 ккал",
+        "сніданок: сир 200 г, Gold Whey, 2 кави, кешʼю 30 г, молоко 100 мл",
+        "поточний підсумок дня після сніданку: їжа приблизно 580 ккал; БЖВ приблизно 63/29/22 г; чистими після греблі приблизно 241 ккал"
+      ]
     }
   ]
 }
