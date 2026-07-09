@@ -173,17 +173,29 @@
           "calories_kcal_estimated": 580,
           "macros_estimated": {"protein_g": 63, "fat_g": 29, "carbs_g": 22},
           "source": "повідомлення користувача + фото"
+        },
+        {
+          "meal": "lunch",
+          "items": [
+            {"item": "котлета з індички парова", "amount_g": 200, "pieces": 2, "calories_kcal_estimated": 420},
+            {"item": "цвітна капуста парова", "amount_g": 70, "calories_kcal_estimated": 20},
+            {"item": "морква бейбі на пару", "amount_g": 70, "calories_kcal_estimated": 30}
+          ],
+          "calories_kcal_estimated": 470,
+          "macros_estimated": {"protein_g": 48, "fat_g": 22, "carbs_g": 16},
+          "source": "фото чеку + фото тарілки; уточнення користувача: котлети 2 шт по 100 г"
         }
       ],
-      "total_calories_kcal_estimated": 580,
-      "daily_macros_estimated": {"protein_g": 63, "fat_g": 29, "carbs_g": 22},
+      "total_calories_kcal_estimated": 1050,
+      "daily_macros_estimated": {"protein_g": 111, "fat_g": 51, "carbs_g": 38},
       "exercise_calories_kcal_reported": 339,
-      "net_calories_after_logged_exercise_kcal_estimated": 241,
+      "net_calories_after_logged_exercise_kcal_estimated": 711,
       "notes": [
         "вага 96.9 кг повідомлена користувачем зранку",
         "тренування: гребля 6017 м за 28:46, тренажер показав 339 ккал",
         "сніданок: сир 200 г, Gold Whey, 2 кави, кешʼю 30 г, молоко 100 мл",
-        "поточний підсумок дня після сніданку: їжа приблизно 580 ккал; БЖВ приблизно 63/29/22 г; чистими після греблі приблизно 241 ккал"
+        "обід: 2 парові котлети з індички по 100 г, цвітна капуста 70 г, морква бейбі 70 г",
+        "поточний підсумок дня після обіду: їжа приблизно 1050 ккал; БЖВ приблизно 111/51/38 г; чистими після греблі приблизно 711 ккал"
       ]
     }
   ]
