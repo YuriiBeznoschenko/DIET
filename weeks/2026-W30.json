@@ -141,6 +141,29 @@
         "fat_g": 110,
         "carbs_g": 79
       }
+    },
+    {
+      "date": "2026-07-22",
+      "weight_kg": 97.0,
+      "workouts": [
+        {
+          "type": "rowing",
+          "distance_m": 6017,
+          "duration": "28:42",
+          "machine_calories_kcal": 340,
+          "calories_per_hour": 708,
+          "stroke_rate_spm": 27,
+          "average_pace_per_500m": "2:23",
+          "forecast_30min_distance_m": 6288,
+          "source": "фото дисплея тренажера"
+        }
+      ],
+      "meals": [],
+      "exercise_calories_kcal_reported": 340,
+      "notes": [
+        "вага 97.0 кг повідомлена користувачем",
+        "гребля 6017 м за 28:42; тренажер показав 340 ккал; 708 ккал/год; 27 гребків/хв; середній темп близько 2:23/500 м; прогноз на 30 хв — 6288 м"
+      ]
     }
   ]
 }
