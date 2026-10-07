@@ -1,0 +1,28 @@
+{
+  "week": "2026-W41",
+  "date_range": {"from": "2026-10-05", "to": "2026-10-11"},
+  "days": [
+    {
+      "date": "2026-10-06",
+      "weight_kg": 96.9,
+      "workouts": [],
+      "meals": [
+        {"meal":"breakfast","raw_entry":"сир 150 г; парова котлета куряча 300 г; кава 6","items":[],"source":"повідомлення користувача","estimate_uncertainty":"Для кави вказано кількість 6 без об'єму/добавок; калорії та БЖВ не оцінювалися."}
+      ],
+      "notes": ["Обід, вечеря та тренування за день не повідомлені."]
+    },
+    {
+      "date": "2026-10-07",
+      "weight_kg": 97.0,
+      "workouts": [
+        {"type":"rowing","duration":"29:43","calories_kcal":331,"avg_calories_per_hour":707,"stroke_rate_spm":29,"source":"фото монітора тренажера","source_quality":"reported_from_image"}
+      ],
+      "meals": [
+        {"meal":"breakfast","raw_entry":"сир 200 г; груша 200 г","items":[],"source":"повідомлення користувача","estimate_uncertainty":"Дані збережені дослівно; калорії та БЖВ не оцінювалися."},
+        {"meal":"lunch","raw_entry":"ньокі 150 г; хек 250 г; морква 100 г","items":[],"source":"повідомлення користувача","estimate_uncertainty":"Дані збережені дослівно; калорії та БЖВ не оцінювалися."},
+        {"meal":"dinner","raw_entry":"повтор обіду: ньокі 150 г; хек 250 г; морква 100 г","items":[],"source":"повідомлення користувача","estimate_uncertainty":"Дані збережені дослівно; калорії та БЖВ не оцінювалися."}
+      ],
+      "notes": []
+    }
+  ]
+}
