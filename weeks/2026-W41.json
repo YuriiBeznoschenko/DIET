@@ -99,6 +99,33 @@
         }
       ],
       "notes": []
+    },
+    {
+      "date": "2026-10-09",
+      "weight_kg": 97,
+      "workouts": [
+        {
+          "type": "rowing",
+          "duration": "29:21",
+          "calories_kcal": 334,
+          "avg_calories_per_hour": 726,
+          "stroke_rate_spm": 27,
+          "source": "фото монітора тренажера",
+          "source_quality": "reported_from_image"
+        }
+      ],
+      "meals": [
+        {
+          "meal": "breakfast",
+          "raw_entry": "сирник 300 г; желе з яблук 200 г",
+          "items": [],
+          "source": "повідомлення користувача",
+          "estimate_uncertainty": "Рецептура невідома; калорії/БЖВ не оцінювалися."
+        }
+      ],
+      "notes": [
+        "Обід і вечеря ще не повідомлені."
+      ]
     }
   ]
 }
