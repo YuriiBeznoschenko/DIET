@@ -28,9 +28,57 @@
           "source_quality": "reported_from_image"
         }
       ],
-      "meals": [],
+      "meals": [
+        {
+          "meal": "breakfast",
+          "source_quality": "reported",
+          "items": [
+            {
+              "name": "сир",
+              "grams": 200
+            },
+            {
+              "name": "груша",
+              "grams": 200
+            },
+            {
+              "name": "зефір",
+              "grams": 50
+            }
+          ],
+          "estimate": {
+            "kcal": 514,
+            "protein_g": 35,
+            "assumptions": "сир 5%"
+          }
+        },
+        {
+          "meal": "lunch",
+          "source_quality": "reported",
+          "items": [
+            {
+              "name": "яловичина",
+              "grams": 300
+            },
+            {
+              "name": "булгур",
+              "grams": 200
+            },
+            {
+              "name": "морква",
+              "grams": 100
+            }
+          ],
+          "estimate": {
+            "kcal": 807,
+            "protein_g": 85,
+            "assumptions": "яловичина нежирна готова, булгур варений"
+          }
+        }
+      ],
       "notes": [
-        "Ранкова вага від користувача; харчування ще не повідомлено."
+        "Харчування записано з повідомлення користувача 14 жовтня; розрахунки калорій та білка орієнтовні.",
+        "Поки що за сніданок і обід: estimate 1321 ккал, 120 г білка."
       ]
     }
   ]
