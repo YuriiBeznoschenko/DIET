@@ -1,0 +1,62 @@
+{
+  "week": "2026-W43",
+  "date_range": {
+    "from": "2026-10-19",
+    "to": "2026-10-25"
+  },
+  "days": [
+    {
+      "date": "2026-10-19",
+      "weight_kg": 96.9,
+      "workouts": [
+        {
+          "type": "rowing",
+          "duration": "28:56",
+          "calories_kcal": 338,
+          "avg_calories_per_hour": 754,
+          "stroke_rate_spm": 28,
+          "source": "фото монітора тренажера",
+          "source_quality": "reported_from_image"
+        }
+      ],
+      "meals": [
+        {
+          "meal": "breakfast",
+          "source_quality": "reported",
+          "items": [
+            {
+              "name": "сир",
+              "grams": 200
+            },
+            {
+              "name": "яблуко",
+              "grams": 200
+            },
+            {
+              "name": "круасан",
+              "grams": null,
+              "estimated_grams": 70
+            },
+            {
+              "name": "кава",
+              "count": 6,
+              "unit": "еспресо"
+            },
+            {
+              "name": "MOXY",
+              "ml": 300
+            }
+          ],
+          "estimate": {
+            "kcal": 776,
+            "protein_g": 41,
+            "assumptions": "сир 5%; круасан ~70 г; 6 еспресо без цукру та молока; MOXY підраховано як солодкий напій ~135 ккал/300 мл; потребує уточнення"
+          }
+        }
+      ],
+      "notes": [
+        "Оцінки поживності не є підтвердженими етикетками чи фактичною вагою круасана."
+      ]
+    }
+  ]
+}
