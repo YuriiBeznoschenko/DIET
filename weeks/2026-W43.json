@@ -57,6 +57,49 @@
       "notes": [
         "Оцінки поживності не є підтвердженими етикетками чи фактичною вагою круасана."
       ]
+    },
+    {
+      "date": "2026-10-20",
+      "weight_kg": 97,
+      "workouts": [
+        {
+          "type": "rowing",
+          "duration": "29:15",
+          "calories_kcal": 335,
+          "avg_calories_per_hour": 710,
+          "stroke_rate_spm": 27,
+          "source": "фото монітора тренажера",
+          "source_quality": "reported_from_image"
+        }
+      ],
+      "meals": [
+        {
+          "meal": "breakfast",
+          "source_quality": "reported",
+          "items": [
+            {
+              "name": "сир",
+              "grams": 200
+            },
+            {
+              "name": "горіхи",
+              "grams": 50
+            },
+            {
+              "name": "пудинг",
+              "grams": 100
+            }
+          ],
+          "estimate": {
+            "kcal": 680,
+            "protein_g": 47,
+            "assumptions": "сир кисломолочний ~5%; середня калорійність горіхів; тип пудингу не уточнено"
+          }
+        }
+      ],
+      "notes": [
+        "Оцінки поживності приблизні, залежать від типу сиру, горіхів і пудингу."
+      ]
     }
   ]
 }
