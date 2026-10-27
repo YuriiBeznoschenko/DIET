@@ -1,0 +1,25 @@
+{
+  "week": "2026-W44",
+  "date_range": {
+    "from": "2026-10-26",
+    "to": "2026-11-01"
+  },
+  "days": [
+    {
+      "date": "2026-10-27",
+      "weight_kg": 97.5,
+      "workouts": [
+        {
+          "type": "rowing",
+          "duration": "29:57",
+          "calories_kcal": 330,
+          "displayed_calories_per_hour": 659,
+          "stroke_rate_spm": 28,
+          "source": "фото монітора тренажера",
+          "source_quality": "reported_from_image"
+        }
+      ],
+      "meals": []
+    }
+  ]
+}
